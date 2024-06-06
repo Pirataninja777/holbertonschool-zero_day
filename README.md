@@ -1,1 +1,1 @@
-My first readme!
+It'time to codee!
